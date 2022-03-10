@@ -187,11 +187,19 @@ hr {
 }
 
 .box-box-3 {
-    padding: 2rem;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    padding: 2rem;
+}
+
+.box-box-3>h1 {
+    color: var(--dark-text);
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+.box-box-3>label {
+    color: var(--gray-text);
 }
 
 .box-4 {
