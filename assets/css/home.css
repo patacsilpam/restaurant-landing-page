@@ -66,7 +66,7 @@ hr {
 }
 
 .header>.logo>.img-logo {
-    width: 60px;
+    width: 60px;f
 }
 
 .header>.logo>.text-logo {
@@ -200,6 +200,8 @@ hr {
 
 .box-box-3>label {
     color: var(--gray-text);
+    display:flex;
+    justify-content:flex-start;
 }
 
 .box-4 {
