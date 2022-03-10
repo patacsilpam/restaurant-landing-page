@@ -206,6 +206,7 @@ hr {
 .box-box-3>.btn-book-now {
     display:flex;
     justify-content:center;
+    align-items:center;
 }
 .box-4 {
     background: var(--light-gray);
