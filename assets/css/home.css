@@ -151,7 +151,7 @@ hr {
 }
 
 .box-box-1>.btn-order-now,
-.box-box-3>.btn-book-now {
+.box-box-3>.btn-book-now>button {
     background: var(--green-text);
     border: transparent;
     border-radius: 50px;
@@ -162,7 +162,7 @@ hr {
 }
 
 .box-box-1>.btn-order-now:hover,
-.box-box-3>.btn-book-now:hover {
+.box-box-3>.btn-book-now>button:hover  {
     background: rgb(57, 230, 163);
 }
 
