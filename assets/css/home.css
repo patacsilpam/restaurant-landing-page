@@ -203,7 +203,9 @@ hr {
     display:flex;
     justify-content:flex-start;
 }
-
+.box-box-3>.btn-book-now {
+  margin: 0 auto;
+}
 .box-4 {
     background: var(--light-gray);
 }
